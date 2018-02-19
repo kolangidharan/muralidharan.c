@@ -1,7 +1,6 @@
 #include<stdio.h>
-
+#include<conio.h>
 #include<string.h>
-
 void main()
 
 {
@@ -27,3 +26,4 @@ count++;
 printf("number of spaces in given string are: %d\n",count);
 
 }
+getch();
